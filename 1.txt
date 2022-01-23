@@ -1,1 +1,2 @@
 First file
+Added feature2
